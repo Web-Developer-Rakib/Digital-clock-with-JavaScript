@@ -1,0 +1,29 @@
+.clockbody{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 100px;
+    font-family: fantasy;
+}
+.hr{
+    background-color: rgb(47, 255, 127);
+    border-radius: 20px;
+    
+}
+.mnt{
+    background-color: hotpink;
+    border-radius: 20px;
+}
+.sec{
+    background-color: khaki;
+    border-radius: 20px;
+}
+.date{
+    background-color: rgb(228, 80, 109);
+    border-radius: 20px;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5px;
+}
+.sub{
+    font-family: cursive;
+}
